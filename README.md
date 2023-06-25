@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RicksonKnrcs
+- 👋 Hi, I’m Rickson
 - 👀 I’m a Comic Books, Fantasy and Sci-Fi entusiast.
 - 🌱 I’m currently learning C++ as my first programming language.
 <!---
